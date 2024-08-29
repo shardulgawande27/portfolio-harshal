@@ -25,23 +25,23 @@ const introdata = {
 const dataabout = {
   title: "abit about my self",
   aboutme:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    "Am a Sr. Software Developer with expertise in backend implementation, frontend development, database design, and payment integration. With significant experience in projects related to CRMS, OTT platforms, and healthcare, Harshal has effectively led a team of developers and optimized project infrastructure. His technical skills include React.js, Node.js, and handling AWS cost reduction and video streaming solution",
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
+    jobtitle: "Sr. Software Developer ",
+    where: " Enpointe IT Services Pvt Ltd, Mumbai",
+    date: "Nov 2020 - Present",
   },
   {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
+    jobtitle: "Software Developer Intern",
+    where: "Settyl Inc., Bangalore",
+    date: "April 2021 - Nov 2021",
   },
   {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
+    jobtitle: "Software Developer Intern",
+    where: "AppAvengers Labs Pvt Ltd, Ahmedabad",
+    date: "Jan 2021 - March 2021",
   },
 ];
 
@@ -70,19 +70,24 @@ const skills = [
 
 const services = [
   {
-    title: "UI & UX Design",
+    title: "Backend Development",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "With extensive experience in backend development, I specialize in creating robust and scalable server-side solutions tailored to meet complex business needs. My expertise includes designing and implementing efficient APIs, integrating third-party services, and managing database architecture to ensure optimal performance and security. I have successfully worked on various projects such as CRM systems, video streaming platforms, and healthcare applications, utilizing technologies like Node.js and AWS to deliver reliable, high-performance backend systems that seamlessly support frontend functionalities.",
   },
   {
-    title: "Mobile Apps",
+    title: "Frontend Development",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I bring a deep understanding of modern frontend development to build intuitive, responsive, and user-friendly interfaces. Specializing in technologies like React.js, I create dynamic web applications that enhance user experience and engagement. My work includes developing and maintaining cinema booking platforms, video streaming interfaces, and job portals, ensuring seamless integration with backend services. By leveraging my experience in UX/UI design and third-party integrations, I deliver visually appealing and highly functional frontend solutions that meet business objectives and user needs.",
   },
   {
-    title: "Wordpress Design",
+    title: "Database Architecture",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "With a strong background in database design and management, I offer comprehensive database architecture services that focus on scalability, efficiency, and data integrity. I have experience designing and optimizing databases for a variety of projects, including CRM systems, subscription services, and video streaming platforms. By utilizing best practices in database schema design, indexing, and query optimization, I ensure high performance and reliability, supporting the seamless operation of complex applications and reducing system load.",
+  },
+  {
+    title: "System Design",
+    description:
+      "As an experienced system architect, I provide expert system design services that involve end-to-end planning and execution of scalable, robust, and secure software architectures. My experience spans multiple projects, including OTT platforms, healthcare systems, and CRM solutions, where I have led the architecture of entire systems to align with business goals and technological requirements. From infrastructure setup to integrating third-party services and optimizing server configurations, I ensure efficient and reliable system designs that cater to high traffic and complex workflows.",
   },
 ];
 

@@ -70,6 +70,22 @@
     padding-bottom: 4px;
 }
 
+.progress-title{
+    display: block;
+}
+
+.skills{
+    display: flex;
+    column-gap: 5rem;
+}
+
+@media screen and (max-width: 480px) {
+    .skills{
+        display: flex;
+        flex-direction: column;
+        
+    }
+  }
 
 /*! CSS Used keyframes */
 
