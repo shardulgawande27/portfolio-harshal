@@ -198,9 +198,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com",
+  github: "https://github.com/harshal125",
   facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
+  linkedin: "https://www.linkedin.com/in/harshal-mahajan-062788183",
   twitter: "https://twitter.com",
 };
 export {
